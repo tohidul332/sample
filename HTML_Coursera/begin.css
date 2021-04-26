@@ -1,0 +1,38 @@
+h1 {
+    color: teal;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    color: tomato;
+    font-family: fantasy;
+    font-weight: bold;
+}
+
+h3 {
+    color: turquoise;
+    font-family: cursive;
+}
+
+p {
+    color: mediumblue;
+    font-family: Gill Sans;
+    font-weight: bolder;
+}
+li {
+    color: orchid;
+    font-weight: inherit;
+    font-family: fantasy;
+}
+dt {
+    color: mediumblue;
+    font-family: serif;
+    font-weight: bolder;
+}
+
+dd {
+    color: mediumvioletred;
+    font-weight: 400;
+}
